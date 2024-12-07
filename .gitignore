@@ -1,0 +1,5 @@
+Data/
+*Rproj
+.Rproj.user/
+*.so
+*.o
